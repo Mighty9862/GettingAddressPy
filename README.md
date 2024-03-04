@@ -1,6 +1,6 @@
 # <span style="color: #FF5733;">GettingAddressPy</span>
 
-Проект "<span style="color: #C70039;">Координаты адреса</span>" представляет собой простое приложение на Python с использованием библиотеки tkinter для GUI и библиотеки geopy для геокодирования адресов.
+Проект "<span style="color: #C70039;">GettingAddressPy</span>" представляет собой простое приложение на Python с использованием библиотеки customtkinter для GUI и библиотеки geopy для геокодирования адресов.
 
 ## <span style="color: #FF5733;">Описание</span>
 
@@ -17,7 +17,7 @@
 ## <span style="color: #FF5733;">Требования</span>
 
 - Python 3.x
-- Библиотека tkinter
+- Библиотека customtkinter
 - Библиотека geopy
 
 ## <span style="color: #FF5733;">Установка зависимостей</span>
